@@ -1,0 +1,28 @@
+{
+  "name": "tfg",
+  "version": "1.0.0",
+  "description": "Reproductor de musica para terapias",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "author": "Quique Caballero",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.3",
+    "chai": "^4.2.0",
+    "connect-multiparty": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "jwt-simple": "^0.5.5",
+    "mocha": "^6.1.4",
+    "moment": "^2.23.0",
+    "mongoose": "^5.4.1",
+    "mongoose-pagination": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}

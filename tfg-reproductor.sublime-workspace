@@ -1,0 +1,652 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"magin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"borde",
+				"border-bottom\tproperty"
+			],
+			[
+				"ove",
+				"overflow-y\tproperty"
+			],
+			[
+				"li",
+				"list-style\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"form",
+				"formArtista"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"bor",
+				"border-top\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"bt",
+				"btn-primary"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"album",
+				"albumId"
+			],
+			[
+				"art",
+				"artista"
+			],
+			[
+				"ar",
+				"artistaId"
+			],
+			[
+				"artista",
+				"artistaId"
+			],
+			[
+				"a",
+				"artista"
+			],
+			[
+				"guar",
+				"guardarAlbum"
+			],
+			[
+				"arts",
+				"artistaId"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"artist",
+				"artists"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"gua",
+				"guardarArtista"
+			],
+			[
+				"get",
+				"getArtista"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"us",
+				"usuarioId"
+			],
+			[
+				"fin",
+				"findByIdAndUpdate"
+			],
+			[
+				"fil",
+				"file_split"
+			],
+			[
+				"md",
+				"md_upload"
+			],
+			[
+				"mes",
+				"message"
+			],
+			[
+				"actual",
+				"actualizarUsuario"
+			],
+			[
+				"use",
+				"usuarioUpdated"
+			],
+			[
+				"usua",
+				"usuarioUpdated"
+			],
+			[
+				"usu",
+				"usuario"
+			],
+			[
+				"au",
+				"authorization"
+			],
+			[
+				"re",
+				"req"
+			],
+			[
+				"se",
+				"send"
+			],
+			[
+				"user",
+				"userStored"
+			],
+			[
+				"con",
+				"contrasenya"
+			],
+			[
+				"guard",
+				"guardarUsuario"
+			],
+			[
+				"s",
+				"String"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "api/rutas/album.js",
+			"settings":
+			{
+				"buffer_size": 863,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "api/rutas/artista.js",
+			"settings":
+			{
+				"buffer_size": 901,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "api/app.js",
+			"settings":
+			{
+				"buffer_size": 1001,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "api/controladores/usuario.js",
+			"settings":
+			{
+				"buffer_size": 4026,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "api/index.js",
+			"settings":
+			{
+				"buffer_size": 399,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/tfg",
+		"/C/wamp/www/tfg/api",
+		"/C/wamp/www/tfg/api/controladores",
+		"/C/wamp/www/tfg/api/middlewares",
+		"/C/wamp/www/tfg/api/modelos",
+		"/C/wamp/www/tfg/api/rutas",
+		"/C/wamp/www/tfg/api/servicios",
+		"/C/wamp/www/tfg/api/Test",
+		"/C/wamp/www/tfg/api/uploads",
+		"/C/wamp/www/tfg/client",
+		"/C/wamp/www/tfg/client/src",
+		"/C/wamp/www/tfg/client/src/app",
+		"/C/wamp/www/tfg/client/src/app/componentes",
+		"/C/wamp/www/tfg/client/src/app/modelos",
+		"/C/wamp/www/tfg/client/src/app/servicios",
+		"/C/wamp/www/tfg/client/src/app/views",
+		"/C/wamp/www/tfg/client/src/assets",
+		"/C/wamp/www/tfg/client/src/assets/css",
+		"/C/wamp/www/tfg/client/src/environments"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/tfg/api/package.json",
+		"/C/wamp/www/tfg/api/controladores/album.js",
+		"/C/wamp/www/tfg/api/Test/album_test.js",
+		"/C/wamp/www/tfg/api/modelos/album.js",
+		"/C/wamp/www/tfg/api/modelos/artista.js",
+		"/C/wamp/www/tfg/api/controladores/artista.js",
+		"/C/wamp/www/tfg/api/servicios/jwt.js",
+		"/C/wamp/www/tfg/api/rutas/artista.js",
+		"/C/wamp/www/tfg/client/src/app/servicios/artista.service.ts",
+		"/C/wamp/www/tfg/client/src/app/componentes/detalle-album.component.ts",
+		"/C/wamp/www/tfg/api/middlewares/authenticated.js",
+		"/C/wamp/www/tfg/client/src/app/componentes/detalle-artista.component.ts",
+		"/C/wamp/www/tfg/client/src/app/componentes/lista-artista.component.ts",
+		"/C/wamp/www/tfg/client/package.json",
+		"/C/wamp/www/tfg/client/src/app/views/detalle-cancion.html",
+		"/C/wamp/www/tfg/client/src/app/componentes/detalle-cancion.component.ts",
+		"/C/wamp/www/tfg/client/src/app/modelos/album.ts",
+		"/C/wamp/www/tfg/client/src/app/componentes/album-add.component.ts",
+		"/C/wamp/www/tfg/api/controladores/usuario.js",
+		"/C/wamp/www/tfg/client/src/app/app.component.html",
+		"/C/wamp/www/tfg/client/src/app/servicios/album.service.ts",
+		"/C/wamp/www/tfg/api/rutas/album.js",
+		"/C/wamp/www/tfg/api/modelos/cancion.js",
+		"/C/wamp/www/tfg/client/src/assets/css/styles.css",
+		"/C/wamp/www/tfg/client/src/app/views/detalle-album.html",
+		"/C/wamp/www/tfg/client/src/app/app.routing.ts",
+		"/C/wamp/www/tfg/client/src/app/app.module.ts",
+		"/C/wamp/www/tfg/client/src/index.html",
+		"/C/wamp/www/tfg/client/src/app/componentes/player.component.ts",
+		"/C/wamp/www/tfg/client/src/app/servicios/cancion.service.ts",
+		"/C/wamp/www/tfg/client/src/app/componentes/cancion-add.component.ts",
+		"/C/wamp/www/tfg/client/src/app/views/detalle-artista.html",
+		"/C/Users/Mortixmix/Pictures/39870409-icono-de-nota-octava-en-rojo.jpg",
+		"/C/wamp/www/tfg/client/src/app/views/cancion-add.html",
+		"/C/wamp/www/tfg/client/src/app/componentes/editar-cancion.component.ts",
+		"/C/wamp/www/tfg/client/src/app/views/album-add.html",
+		"/C/wamp/www/tfg/client/src/app/componentes/editar-artista.component.ts",
+		"/C/wamp/www/tfg/client/src/app/componentes/editar-album.component.ts",
+		"/C/wamp/www/tfg/client/src/app/views/lista-artista.html",
+		"/C/wamp/www/tfg/client/src/app/servicios/upload.service.ts",
+		"/C/wamp/www/tfg/client/src/app/componentes/editar-usuario.component.ts",
+		"/C/wamp/www/tfg/client/src/app/componentes/artista-add.component.ts",
+		"/C/wamp/www/tfg/client/src/app/views/artista-add.html",
+		"/C/wamp/www/tfg/client/src/app/views/editar-usuario.html",
+		"/C/wamp/www/tfg/api/uploads/artistas/i4ov9s-mZqdah_g9IbEw1Zcg.jpg",
+		"/C/wamp/www/tfg/client/src/app/app.component.ts",
+		"/C/wamp/www/tfg/client/src/app/views/home.html",
+		"/C/wamp/www/tfg/client/src/app/componentes/home.component.ts",
+		"/C/wamp/www/tfg/client/src/app/servicios/usuario.service.ts",
+		"/C/wamp/www/tfg/client/src/app/servicios/global.ts",
+		"/C/wamp/www/tfg/app.js",
+		"/C/wamp/www/tfg/client/src/app/modelos/cancion.ts",
+		"/C/wamp/www/tfg/client/src/app/modelos/artista.ts",
+		"/C/wamp/www/tfg/client/src/app/modelos/usuario.ts",
+		"/C/wamp/www/tfg/rutas/cancion.js",
+		"/C/wamp/www/tfg/controladores/cancion.js",
+		"/C/wamp/www/tfg/servicios/jwt.js",
+		"/C/wamp/www/tfg/controladores/usuario.js",
+		"/C/wamp/www/tfg/controladores/album.js",
+		"/C/wamp/www/tfg/controladores/artista.js",
+		"/C/wamp/www/tfg/rutas/album.js",
+		"/C/wamp/www/tfg/modelos/cancion.js",
+		"/C/wamp/www/tfg/rutas/artista.js",
+		"/C/wamp/www/tfg/rutas/usuario.js",
+		"/C/wamp/www/tfg/modelos/album.js",
+		"/C/wamp/www/tfg/modelos/artista.js",
+		"/C/wamp/www/tfg/middlewares/authenticated.js",
+		"/C/wamp/www/tfg/index.js",
+		"/C/wamp/www/tfg/modelos/usuario.js",
+		"/C/wamp/www/tfg/package.json",
+		"/C/wamp/www/tfg/package-lock.json",
+		"/C/wamp/www/tfg/modelos/artistas",
+		"/C/wamp/www/tfg/tfg-reproductor.sublime-project"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"navigation",
+			"album",
+			"scr",
+			"SCROLL",
+			"',\n",
+			"cancion",
+			";\n",
+			">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "api/rutas/album.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 863,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								736,
+								143
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "api/rutas/artista.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 901,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "api/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1001,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								821,
+								821
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "api/controladores/usuario.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 4026,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2819,
+								2819
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1197.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "api/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tfg-reproductor.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 293.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
